@@ -1,0 +1,162 @@
+﻿Build started 27-Mar-21 6:10:02 PM.
+     1>Project "C:\Users\USER\Downloads\Compressed\SURVIVNG AUST-20210327T120418Z-001\SURVIVNG AUST\SURVIVNG AUST.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\SURVIVNG AUST.unsuccessfulbuild".
+       ClCompile:
+         D:\VS10\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\variable.h(65): error C3861: 'random2': identifier not found
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\variable.h(65): error C3861: 'random': identifier not found
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\selection.h(31): error C2065: 'Width' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\selection.h(31): error C2065: 'Height' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\selection.h(73): error C2065: 'Width' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\selection.h(73): error C2065: 'Height' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\selection.h(123): error C2065: 'Width' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\selection.h(123): error C2065: 'Height' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\selection.h(174): error C2065: 'Width' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\selection.h(174): error C2065: 'Height' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2): error C2011: 'buttonCordinate' : 'struct' type redefinition
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(14): error C2011: 'hover' : 'struct' type redefinition
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(14) : see declaration of 'hover'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(19): error C2011: 'object' : 'struct' type redefinition
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(19) : see declaration of 'object'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(15): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(15): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(19): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(19): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(23): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(23): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(27): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(27): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(30): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(30): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(32): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(32): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(33): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(33): error C2228: left of '.xhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(38): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(38): error C2228: left of '.xhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(38): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(38): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(38): error C2065: 'Basket' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(38): error C2228: left of '.xhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(38): error C2065: 'Basket' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(38): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(41): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(41): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(42): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(42): error C2228: left of '.xhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(54): error C2065: 'Basket' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(54): error C2228: left of '.xhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(55): error C2065: 'Basket' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(55): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(63): error C2065: 'Basket' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(63): error C2228: left of '.xhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(64): error C2065: 'Basket' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(64): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(70): error C2065: 'Basket' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(70): error C2228: left of '.xhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(71): error C2065: 'Basket' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\basket.h(71): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(12): error C2027: use of undefined type 'hover'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(14) : see declaration of 'hover'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(12): error C2228: left of '.hv' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(22): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(22): error C2228: left of '.x1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(22): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(22): error C2228: left of '.y1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(25): error C2027: use of undefined type 'hover'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(14) : see declaration of 'hover'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(25): error C2228: left of '.hv' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(26): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(26): error C2228: left of '.x1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(26): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(26): error C2228: left of '.y1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(28): error C2027: use of undefined type 'hover'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(14) : see declaration of 'hover'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(28): error C2228: left of '.hv' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(29): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(29): error C2228: left of '.x1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(29): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(29): error C2228: left of '.y1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(31): error C2027: use of undefined type 'hover'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(14) : see declaration of 'hover'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(31): error C2228: left of '.hv' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(32): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(32): error C2228: left of '.x1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(32): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(32): error C2228: left of '.y1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(34): error C2027: use of undefined type 'hover'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(14) : see declaration of 'hover'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(34): error C2228: left of '.hv' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(35): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(35): error C2228: left of '.x1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(35): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(35): error C2228: left of '.y1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(78): error C2065: 'Basket' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(78): error C2228: left of '.xhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(78): error C2065: 'Basket' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(78): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(79): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(79): error C2228: left of '.xhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(79): error C2065: 'Ball' : undeclared identifier
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\gamestate.h(79): error C2228: left of '.yhia' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(38): error C2079: 'Basket' uses undefined struct 'object'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(41): error C2228: left of '.xhia' must have class/struct/union
+                 type is 'int'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(42): error C2228: left of '.yhia' must have class/struct/union
+                 type is 'int'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(45): error C2079: 'Ball' uses undefined struct 'object'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(48): error C2228: left of '.xhia' must have class/struct/union
+                 type is 'int'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(49): error C2228: left of '.yhia' must have class/struct/union
+                 type is 'int'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(103): error C2027: use of undefined type 'hover'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(14) : see declaration of 'hover'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(103): error C2228: left of '.hv' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(105): error C2027: use of undefined type 'hover'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(14) : see declaration of 'hover'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(105): error C2228: left of '.hv' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(110): error C2027: use of undefined type 'buttonCordinate'
+                 c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\structure.h(2) : see declaration of 'buttonCordinate'
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(110): error C2228: left of '.x1jas' must have class/struct/union
+     1>c:\users\user\downloads\compressed\survivng aust-20210327t120418z-001\survivng aust\imain.cpp(110): fatal error C1003: error count exceeds 100; stopping compilation
+     1>Done Building Project "C:\Users\USER\Downloads\Compressed\SURVIVNG AUST-20210327T120418Z-001\SURVIVNG AUST\SURVIVNG AUST.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.70
