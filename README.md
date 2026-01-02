@@ -43,7 +43,9 @@ Failure to complete obstacles within time limits or collisions with entities res
 ---
 
 ## Project Structure
-.
+
+````text
+surviving-aust-game/
 ├── Main.cpp
 ├── utilities.cpp
 ├── random.cpp
@@ -59,6 +61,7 @@ Failure to complete obstacles within time limits or collisions with entities res
 ├── room/
 ├── images/
 └── SURVIVING AUST.sln
+````
 
 ---
 
